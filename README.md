@@ -9,9 +9,7 @@
 ###This repository shows the relationship between the number of suicides in each country and the GDP of each country in the chosen currency.
 ###I use an APIKEY to use a API to change coin
 
-##**main.py**
-
-###	**main.py <Country><Coin>**
+## ** main.py < Country >< Coin > **
 
 ###	Coin = Choose between EUR,USD,GBP,BTC,JPY,CHF
 ###	Country = Choose Country

@@ -1,4 +1,4 @@
-# **Suicide rates **
+# **Suicide rates**
 
 ![Alt-Text](/INPUT/images.jpeg)
 

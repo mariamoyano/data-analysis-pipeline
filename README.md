@@ -2,13 +2,13 @@
 
 ![Alt-Text](/INPUT/images.jpeg)
 
-###What is the relationship between the number of suicides and the gbp from a country? What age ranges have the most suicides? In this repository I try to analyze the suicide rates of each country.Which countries have the highest number of suicides?
+What is the relationship between the number of suicides and the gbp from a country? What age ranges have the most suicides? In this repository I try to analyze the suicide rates of each country.Which countries have the highest number of suicides?
 
 **DESCRIPTION**
 
 This repository shows the relationship between the number of suicides in each country and the GDP of each country in the chosen currency. I use an APIKEY to use a API to change coin
 
-** main.py < Country > < Coin > ****
+_main.py < Country > < Coin >_
 
 *	Coin = Choose between EUR,USD,GBP,BTC,JPY,CHF
 *	Country = Choose Country

@@ -1,6 +1,6 @@
 # **Suicide rates **
 
-![Alt-Text](/INPUT/images.jpg)
+![Alt-Text](/INPUT/images.jpeg)
 
 ###What is the relationship between the number of suicides and the gbp from a country? What age ranges have the most suicides? In this repository I try to analyze the suicide rates of each country.Which countries have the highest number of suicides?
 
